@@ -2,7 +2,7 @@
 
 ## Description
 This project was forked from an MIT exercise.
-This project utlizes events such as 'onmousemove' to create a pair of eyes that follow the cursor.
+This project utlizes events such as `onmousemove` to create a pair of eyes that follow the cursor.
 
 ## How to Run
 1. Clone this repository to your local machine and unzip the folder.
