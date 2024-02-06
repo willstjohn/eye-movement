@@ -7,7 +7,7 @@ This project utlizes events such as onmousemove to create a pair of eyes that fo
 ## How to Run
 1. Clone this repository to your local machine and unzip the folder.
 2. Open a new window in your browser and drag the `index.html` file onto it.
-3. Watch as the eyes follor your cursor around the page.
+3. Watch as the eyes follow your cursor around the page.
 
 ## Roadmap
 In the future, I would like to add some shading or maybe even some ominous blinking eyelids. 
