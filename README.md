@@ -1,4 +1,4 @@
-# Eyes Tracking Exercise
+# Eye Tracking Exercise
 
 ## Description
 This project was forked from an MIT exercise.
